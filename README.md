@@ -1,14 +1,14 @@
 # aiprompt
 
-Simple script to use OpenAI API completions
+Simple script to test OpenAI API completions
 
-# Installation
+### Installation
 
 1. Clone this repository
-2. Run *npm install*
+2. Run ```npm install```
 
-# Use
+### Use
 
-*node aiprompt.js*
+```node aiprompt.js```
 
-Type exit to quit.
+Type ```exit``` to quit.
